@@ -1,0 +1,180 @@
+
+
+/*!
+ * Start Bootstrap - Small Business HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+@import url('/fonts/younger-than-me.css');
+
+html {
+    background: url(/img/bgm.png);
+}
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    background: transparent url(/img/bgm.jpg) no-repeat!important;
+    color: white !important;
+}
+
+.navbar a.btn  {
+    color: white !important;
+}
+
+.well, .panel-heading {
+    color: #fff !important; 
+    background-color: #93130a !important; 
+    border: 0;
+}
+
+.panel-title {
+    font-size: 26px;
+}
+
+.navbar-fixed-top .nav {
+    padding: 15px 0;
+}
+
+.navbar-fixed-top .navbar-brand {
+    padding: 0 15px;
+}
+
+footer {
+    padding: 60px 0;
+    background: black;
+}
+
+
+
+#content {
+
+
+
+    font-size: 120%;
+
+}
+
+.post-title {
+    line-height: 75px;
+    background: transparent url(/img/yellow.png) no-repeat; 
+    color: black; 
+    font-size: 40px; 
+    font-weight: bold; 
+    padding: 3px;
+}
+
+.col-md-3 h2, .col-md-4 h1, .col-md-4 h2, .col-md-4 h3, .post-content h2, .btn,  .post-title, .nav li, footer h2 { 
+    text-transform: uppercase; 
+    font-family: "Flaticon", sans-serif;			 
+}
+
+footer p {font-weight: bold;}
+
+.panel {
+    background: rgb(0,0,0);
+    background: rgba(0,0,0,.5);
+}
+
+
+
+@media(min-width:768px) {
+
+    img.pull-right, img.pull-left{
+
+	margin: 1.5em;
+
+    }
+
+
+    html {
+	background: transparent;
+    }
+
+    body {
+        padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+        background: white url(/img/bg.jpg) top center !important;
+    }
+
+    #content {
+
+	font-size: 100%;
+
+    }
+
+    .navbar-fixed-top .navbar-brand {
+        padding: 15px 0;
+    }
+
+    .post-title {
+	line-height: 75px; 
+	background: transparent url(/img/yellow.png) no-repeat; 
+	color: black; 
+	font-size: 64px; 
+	font-weight: bold; 
+	padding: 3px;
+    }
+
+    .col-md-4 h1, .col-md-4 h2, .col-md-4 h3, .post-content h2, .btn,  .post-title, .nav li { 
+	text-transform: uppercase; 
+	font-family: "Flaticon", sans-serif
+    }
+
+    .btn {
+	font-size: 140%;
+    }
+
+    .navbar-nav a {
+	font-size: 20px;
+	line-height: 20px;
+	text-align: center;
+    }
+    .navbar-nav a span {
+	font-size: 32px;
+	line-height: 34px;
+	display: block;
+    }
+
+    footer {
+	width: 100%;
+	background: #111;	
+    }
+
+    footer * {font-weight: bold;}
+
+}
+
+@media(min-width: 1000px) {
+
+    #content {
+	padding-right: 90px;
+	min-height: 940px;
+    }
+
+    #foo-right {
+	width: 110px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	height: 1300px;
+	overflow: hidden;
+	background: transparent url(/img/right.png);
+	z-index: 1400;
+    }
+
+}
+
+@media(min-width: 1280px) {
+    #foo-left {
+	width: 110px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 1300px;
+	overflow: hidden;
+	background: transparent url(/img/left.png);
+	z-index: 1400;
+
+    }
+
+}

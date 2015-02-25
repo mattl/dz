@@ -1,0 +1,12 @@
+# Site settings
+title: Dreadball Xtreme
+storelink: http://www.manticgames.com/mantic-shop/dreadball/dreadball-xtreme/product/dreadball-xtreme-boxed-game.html
+email: info@manticgames.com
+description: The Galaxy's Most Brutal Sport, DreadBall Xtreme is the violent tabletop miniatures game from Mantic Games.
+baseurl: ""  # the subpath of your site, e.g. /blog/
+url: "http://dreadballxtremethegame.com" # the base hostname & protocol for your site
+twitter_username: manticgames
+github_username:  
+
+# Build settings
+markdown: kramdown

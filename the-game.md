@@ -1,0 +1,232 @@
+---
+layout: page
+title: The Game
+permalink: /the-game/
+nexturl: /dbx/the-universe/
+nexttitle: The Universe
+---
+DreadBall Xtreme is  a fast paced and fun tabletop boardgame where you take on the role of a savage Sponsor controlling a team of the Universes most vicious athletes competing in a nonstop contest  of skill, tactics and ruthless violence for fame and glory! Your players strive to score points by getting the ball into in their opponents Strike Zone, either though elegant tactics and subtle moves, or the brutal bludgeoning of anyone who stands in their way.
+
+<img class="img-responsive pull-right" src="/img/homepage-board.png" alt="">
+
+<p><li>Play in a claustrophobic arena littered with interactive deadly bobby-trapped scenery </li>
+<li>Build your own bespoke team of savage thugs and deadly aliens to crush your opponents </li>
+<li>Dynamic game play allows you to finish a breathless match in under an hour!</li>
+<li>Magnificent Mantic miniatures are ready assembled to allow instant play</li>
+<li>Have enormous fun playing dirty tricks, sneaky weapons and brutal fouls on your friends to win the match</li></p>
+ 
+
+The best way to begin playing Dreadball Xtreme is to get yourself a copy of the awesome, fun boxed game.
+It contains everything that you will need to start playing:
+
+<div class="clearfix">&nbsp;</div>
+
+
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingOne">
+      <h2 class="panel-title">
+	<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+	  Choose your sponsor and assemble your team!  >
+	</a>
+      </h2>
+    </div>
+    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+      <div class="panel-body">
+
+Assume the role of Sponsor and assemble your team from convicted felons, alien psychopaths or bloodthirsty mercenaries. The box contains two complete teams of Convicts and Asterians, including characterful prone figures. There is also an incredible assortment of free agents for you to include in your team, such as the robotic training drones and bloodsucking aliens!
+
+Every model comes match-ready and can be used straight out of the box – no assembly required!
+
+<!-- Content Row -->
+	<div class="row">
+<div class="col-md-4">
+<h3>Blaine- Sponsor</h3>
+<a href="/sponsors/blaine/"><img src="../img/blaine.png" class="pull-left img-responsive " /></a>
+<p>The deadly alien criminal mastermind who favours an eclectic and diverse team, often recruiting a wide mix of different species and player types depending upon this carefully worked out strategy.</p>
+<a class="btn btn-danger" href="/sponsors/blaine/">More Info</a>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>The Warden- Sponsor</h3>
+<a href="/sponsors/warden/"><img src="../img/prison-warden-isolated.png" class="pull-left img-responsive " /></a>
+<p>With a whole prison planet of degenerate scum at his mercy, The Warden Rasulov can take his pick of the best (or worse) the Universe has to offer and field them on the pitch. </p>
+<a class="btn btn-danger" href="/sponsors/warden/">More Info</a>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Free Agents</h3>
+<a href="/the-game/freeagents//"><img src="../img/yndig-reaver.png" class="pull-left img-responsive " /></a>
+<p>The box contains 9 brilliant models of crazy aliens, vicious mercenaries and assorted scum that a Sponsor can hire to help win the game, each with their own individual skills and strengths.</p>
+<a class="btn btn-danger" href="/the-game/freeagents/">More Info</a>
+</div>
+<!-- /.col-md-4 -->
+</div>
+<!-- /.row -->
+<!-- Content Row -->
+<div class="row">
+<div class="col-md-4">
+<h3>Convicts Team</h3>
+<a href="/sponsors/warden/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
+<p>10 awesomely psychopathic Convict miniatures (including 2 injured) </p>
+<a class="btn btn-danger" href="/sponsors/warden/">More Info</a>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Kalyshi Team</h3>
+<a href="/sponsors/blaine/"><img src="../img/kalyshi.png" class="pull-left img-responsive " /></a>
+<p>10 graceful and deadly Asterain Kalyshi warriors including 2 wounded players.</p>
+<a class="btn btn-danger" href="/sponsors/blaine/">More Info</a>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Coloured Hex Bases</h3>
+<img src="../img/DBX-bases.png" class="pull-left img-responsive " />
+<p>12 yellow and 12 blue hex bases that the miniatures slot onto to help distinguish between the two teams</p>
+</div>
+<!-- /.col-md-4 -->
+</div>
+<!-- /.row -->
+
+      </div>      
+
+  </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingTwo">
+      <h2 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Deadly Sports Arena  >
+        </a>
+      </h2>
+    </div>
+    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+      <div class="panel-body">
+
+
+
+Play ball on a makeshift arena littered with jagged obstacles and exploding traps whilst evading your opponent’s attempts to sabotage your team. Concealed weapons are a premium and your opposing Sponsor do their best to bet, threaten and intimidate their way to victory. Only the luckiest will survive!
+
+<!-- Content Row -->
+<div class="row">
+<div class="col-md-4">
+<h3>Pitch</h3>
+<img src="../img/DBX-mat02.png" class="pull-left img-responsive " />
+<p>The game is played on a detailed rubber gaming mat representing the disused warehouses, abandoned bunkers or any other hidden and inaccessible hell hole being used for an arena.</p>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Strike Posts</h3>
+<img src="../img/strike-post-1.png" class="pull-left img-responsive " />
+<p>Strike Posts are the goals in which the players strive to score points and win the game!</p>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Exploding Crates</h3>
+<img src="../img/crate01-isolated.png" class="pull-left img-responsive " />
+<p>Arenas are littered with debris and obstacles, many of which are booby trapped with explosives that detonate when a player gets too close - all for the benefit and enjoyment of the cred paying crowds!</p>
+</div>
+<!-- /.col-md-4 -->
+</div>
+<!-- /.row -->
+<!-- Content Row -->
+<div class="row">
+<div class="col-md-4">
+<h3>Special Move Cards</h3>
+<img src="../img/DBX-cards.png" class="pull-left img-responsive " />
+<p>Gain extra advantages either getting players to put in that extra burst of effort to gain an added action, or by whipping up the crowd to an even greater frenzy through flashy moves.</p>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Sabotage Cards</h3>
+<img src="../img/DBX-cards02.png" class="pull-left img-responsive " />
+<p>These are either vicious tricks that are played on opposing players or the when the crowd take a direct influence in the game by shooting at the participants!</p>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Balls</h3>
+<img src="../img/ball-1.png" class="pull-left img-responsive " />
+<p>2 Dreadballs- for when killing your opponents just isn’t enough and you want to score points as well!</p>
+</div>
+<!-- /.col-md-4 -->
+</div>
+<!-- /.row -->
+      </div>
+    </div>
+  </div>
+    <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h2 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          Rules Material  >
+        </a>
+      </h2>
+    </div>
+    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
+
+<!-- Content Row -->
+<div class="row">
+<div class="col-md-4">
+<h3>Rulebook</h3>
+<img src="../img/xtremebook.png" class="pull-left img-responsive " />
+<p>All the awesome, fun rules for the game rules are clearly explained in a brilliant 64 page full colour rulebook, including a really useful 'Getting Started' section. </p>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Counters</h3>
+<img src="../img/DBX-counters.png" class="pull-left img-responsive " />
+<p>All of the counters and tokens that you need to keep track of how the game is progressing- and most importantly who is winning!</p>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Dice</h3>
+<img src="../img/DBX-dice.png" class="pull-left img-responsive " />
+<p>There are three colours of dice- the home team have blue, the visitors have yellow, and red dice are used as Coaching dice to use in special plays.</p>
+</div>
+<!-- /.col-md-4 -->
+</div>
+<!-- /.row -->
+
+      </div>
+    </div>
+  </div>
+   <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingFour">
+      <h2 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+          Beyond the core game...  >
+        </a>
+      </h2>
+    </div>
+    <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+      <div class="panel-body">
+
+<!-- Content Row -->
+<div class="row">
+<div class="col-md-4">
+<h3>Xtreme Xpansion</h3>
+<img src="../img/xpansion.png" class="pull-left img-responsive " />
+<p>Coming Soon! The DreadBall Xtreme game just got even better with this incredible expansion set that includes  the rules for additional psychopathic Sponors, the details for using the full range of DreadBall miniatures in your teams and so much more!!!</p>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>New Sponsors</h3>
+<img src="../img/newsponsor.png" class="pull-left img-responsive " />
+<p>Coming Soon! You will not believe the roll call of insane, callous and downright deranged Sponsors that Mantic have lined up to hire and lead your players. Each one will give you the opportunity to create a bespoke and individual team with exciting challenges and styles of play.</p>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Teams</h3>
+<img src="../img/newteam.png" class="pull-left img-responsive " />
+<p>Coming Soon! In DreadBall Xtreme your Sponsor can select players from the full range of marvellous Mantic minitures across the whole of the DreadBall universe. Create the ultimate team full of the models you love…</p>
+</div>
+<!-- /.col-md-4 -->
+</div>
+<!-- /.row -->
+
+      </div>
+    </div>
+  </div>
+</div>
+      

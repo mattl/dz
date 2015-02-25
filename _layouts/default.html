@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+<body>
+
+  
+    {% include header.html %}
+
+    <!-- Page Content -->
+    <div id="content" class="container">
+
+      {{ content }}
+
+    </div>
+
+    <!-- Footer -->
+    <footer>
+      <div class="container">
+      <div class="row">
+        <div class="col-lg-6">
+	  <p><a href="http://www.manticgames.com"><img src="/img/mantic.png" class="img-responsive" /></a></p>
+          <p>Copyright &copy; 2015 <a href="http://www.manticgames.com">Mantic Entertainment, Ltd</a></p>
+        </div>
+	<div class="col-lg-6">
+	  {% include footer.html %}
+	</div>
+	
+      </div> </div>
+    </footer>
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
+
+	<script type="text/javascript">
+
+	  $(document).ready(function(){
+
+	  if( $(window).width() > 999) {
+
+	  $("#foo-right").css({'height':($("html").height()+'px')});
+	  $("#foo-left").css({'height':($("html").height()+'px')});
+
+	  }
+
+	  });
+
+	</script>
+
+    </div>
+
+    <div id="foo-right">&nbsp;</div>
+    <div id="foo-left">&nbsp;</div>
+
+</body>
+
+</html>
