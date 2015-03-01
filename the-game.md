@@ -10,7 +10,7 @@ Deadzone is the exciting tabletop miniatures game where two Strike Teams do batt
 
 <strong>Fast, furious firefights</strong> - Command a Strike Team of between 5-15 miniatures to achieve secret objectives. Capture vital intel, assasinate the enemy commander or simply obliterate the opposing force from the battlefield! 
 
-<strong>Build your team</strong> - Select your team from one of seven factions and play battles using the games' deep campaign system which will see your squad of basic troopers grow in number, gain new equipment and earn special abilities!
+<strong>Build your Strike Team</strong> - Select your team from one of seven factions and play battles using the games' deep campaign system which will see your squad of basic troopers grow in number, gain new equipment and earn special abilities!
 
 <strong>True Line of Sight</strong> - See what you can shoot using the game's intuitive and engaging mechanics.
 
