@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Blaine
+title: Enforcers
 sub: yes
-permalink: /sponsors/blaine/
+permalink: /the-game/enforcers/
 ---
 
 <!-- for each faction -->
