@@ -32,7 +32,7 @@ Below is a sample of the different soldiers available to a Commander to form par
 </div>
 <!-- /.col-md-4 -->
 <div class="col-md-4">
-<h3>Captain</h3>
+<h3>Peacekeeper</h3>
 <a href=""><img src="/img/elf-jack-1-c.png" class="pull-left img-responsive " /></a>
 <p>It takes utter dedication to the cause just to survive more than a handful of missions and Enforcers who rise through the ranks to command positions have almost superhuman levels of skill, endurance and the most advanced personal armour available to the forces of humanity. </p>
 </div>
@@ -42,19 +42,19 @@ Below is a sample of the different soldiers available to a Commander to form par
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
-<h3>Sergeant</h3>
+<h3>Enforcer</h3>
 <a href=""><img src="/img/bloodsucker-free-agent.png" class="pull-left img-responsive " /></a>
 <p>The Xtreme crowd love these alien monstrosities as they have the truly horrifying ability of snatching their victims up into their tentacled mouthpieces and draining the vital fluids from their bodies.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h3>Enforcer</h3>
+<h3>Pathfinder</h3>
 <a href=""><img src="/img/pusk-free-agent.png" class="pull-left img-responsive " /></a>
 <p>An almost unstoppable juggernaut as it crashes around the pitch, crushing everything in its path.   </p>
 </div>
 <!-- /.col-md-4 -->
 <div class="col-md-4">
-<h3>Assault Enforcer</h3>
+<h3>Sniper</h3>
 <a href=""><img src="/img/spinpede-free-agent.png" class="pull-left img-responsive " /></a>
 <p>These asteroid dwelling insectoids are almost invulnerable to pain as they curl themselves around the ball and roll towards the strike zone. </p>
 </div>
@@ -64,33 +64,13 @@ Below is a sample of the different soldiers available to a Commander to form par
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
-<h3>Pathfinder</h3>
-<a href=""><img src="/img/bloodsucker-free-agent.png" class="pull-left img-responsive " /></a>
-<p>The Xtreme crowd love these alien monstrosities as they have the truly horrifying ability of snatching their victims up into their tentacled mouthpieces and draining the vital fluids from their bodies.</p>
-</div>
-<!-- /.col-md-4 -->
- <div class="col-md-4">
-<h3>Peacekeeper</h3>
-<a href=""><img src="/img/pusk-free-agent.png" class="pull-left img-responsive " /></a>
-<p>An almost unstoppable juggernaut as it crashes around the pitch, crushing everything in its path.   </p>
-</div>
-<!-- /.col-md-4 -->
-<div class="col-md-4">
 <h3>Defender</h3>
-<a href=""><img src="/img/spinpede-free-agent.png" class="pull-left img-responsive " /></a>
-<p>These asteroid dwelling insectoids are almost invulnerable to pain as they curl themselves around the ball and roll towards the strike zone. </p>
-</div>
-<!-- /.col-md-4 -->
-<!-- Content Row -->
-<div class="row">
-<div class="col-md-4">
-<h3>Engineer</h3>
 <a href=""><img src="/img/bloodsucker-free-agent.png" class="pull-left img-responsive " /></a>
 <p>The Xtreme crowd love these alien monstrosities as they have the truly horrifying ability of snatching their victims up into their tentacled mouthpieces and draining the vital fluids from their bodies.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h3>Sniper</h3>
+<h3>Engineer</h3>
 <a href=""><img src="/img/pusk-free-agent.png" class="pull-left img-responsive " /></a>
 <p>An almost unstoppable juggernaut as it crashes around the pitch, crushing everything in its path.   </p>
 </div>
@@ -101,8 +81,6 @@ Below is a sample of the different soldiers available to a Commander to form par
 <p>These asteroid dwelling insectoids are almost invulnerable to pain as they curl themselves around the ball and roll towards the strike zone. </p>
 </div>
 <!-- /.col-md-4 -->
-</div>
-<!-- /.row -->
 </div>
 <!-- /.row -->
 
