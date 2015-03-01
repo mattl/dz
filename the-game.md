@@ -159,6 +159,11 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 </div>
 <!-- /.col-md-4 -->
 </div>
+<h3>Mercenaries</h3>
+<img src="../img/DBX-cards02.png" class="pull-left img-responsive " />
+<p>These are either vicious tricks that are played on opposing players or the when the crowd take a direct influence in the game by shooting at the participants!</p>
+</div>
+<!-- /.col-md-4 -->
 <!-- /.row -->
       </div>
     </div>
