@@ -1,23 +1,26 @@
 ---
 layout: page
-title: The Game
+title: Deadzone - War in Urban Battlezones
 permalink: /the-game/
 nexturl: /dbx/the-universe/
 nexttitle: The Universe
 ---
-DreadBall Xtreme is  a fast paced and fun tabletop boardgame where you take on the role of a savage Sponsor controlling a team of the Universes most vicious athletes competing in a nonstop contest  of skill, tactics and ruthless violence for fame and glory! Your players strive to score points by getting the ball into in their opponents Strike Zone, either though elegant tactics and subtle moves, or the brutal bludgeoning of anyone who stands in their way.
 
-<img class="img-responsive pull-right" src="/img/homepage-board.png" alt="">
+Deadzone is the exciting tabletop miniatures game where two Strike Teams do battle in the depths of an urban battlezone.
 
-<p><li>Play in a claustrophobic arena littered with interactive deadly bobby-trapped scenery </li>
-<li>Build your own bespoke team of savage thugs and deadly aliens to crush your opponents </li>
-<li>Dynamic game play allows you to finish a breathless match in under an hour!</li>
-<li>Magnificent Mantic miniatures are ready assembled to allow instant play</li>
-<li>Have enormous fun playing dirty tricks, sneaky weapons and brutal fouls on your friends to win the match</li></p>
- 
+<strong>Fast, furious firefights</strong> - Command a Strike Team of between 5-15 miniatures to achieve secret objectives. Capture vital intel, assasinate the enemy commander or simply obliterate the opposing force from the battlefield! 
 
-The best way to begin playing Dreadball Xtreme is to get yourself a copy of the awesome, fun boxed game.
-It contains everything that you will need to start playing:
+<strong>Build your team</strong> - Select your team from one of seven factions and play battles using the games' deep campaign system which will see your squad of basic troopers grow in number, gain new equipment and earn special abilities!
+
+<strong>True Line of Sight</strong> - See what you can shoot using the game's intuitive and engaging mechanics.
+
+<strong>Interactive 3D Battlefield</strong> - Play on a fully modular battlefield using the hard plastic Battlezones terrain tile system. Construct everything from towers to bunkers, walkways to entire space-stations using the versatile range. Add in a range of accessories and lootable equipment on the battlefield and you have a truly 3D gaming space as high quality as your miniatures.
+
+<strong>The War Escalates!</strong> - Expand your battles with exciting rules such as Multi-Mat, Multiplayer and the solo Zombie campaign!
+
+<strong>Deep, compelling narrative</strong> - Set in the Warpath universe, focus in on the regions of space designated a Deadzone and discover the horrors that have befallen planets such as Nexus Psi and Exham IV.
+
+The best way to begin playing Deadzone is to get yourself a copy of the two-player starter set:
 
 <div class="clearfix">&nbsp;</div>
 
