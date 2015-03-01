@@ -30,16 +30,14 @@ The best way to begin playing Deadzone is to get yourself a copy of the two-play
     <div class="panel-heading" role="tab" id="headingOne">
       <h2 class="panel-title">
 	<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-	  Choose your sponsor and assemble your team!  >
+	  Getting Started  >
 	</a>
       </h2>
     </div>
     <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
       <div class="panel-body">
 
-Assume the role of Sponsor and assemble your team from convicted felons, alien psychopaths or bloodthirsty mercenaries. The box contains two complete teams of Convicts and Asterians, including characterful prone figures. There is also an incredible assortment of free agents for you to include in your team, such as the robotic training drones and bloodsucking aliens!
-
-Every model comes match-ready and can be used straight out of the box – no assembly required!
+The box contains everything that you need to play this awesome game: two forces of magnificent Mantic miniatures to represent the Enforcers and the Plague, a durable urdan gaming mat and modular scenery to create your battlefield, a full colour rulebook and all the dice, cards and counters that you need to play!
 
 <!-- Content Row -->
 	<div class="row">
@@ -99,7 +97,7 @@ Every model comes match-ready and can be used straight out of the box – no ass
     <div class="panel-heading" role="tab" id="headingTwo">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          Deadly Sports Arena  >
+          Choose your Faction  >
         </a>
       </h2>
     </div>
@@ -161,7 +159,7 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
     <div class="panel-heading" role="tab" id="headingThree">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          Rules Material  >
+          Build Better Battlefields  >
         </a>
       </h2>
     </div>
@@ -198,7 +196,7 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
     <div class="panel-heading" role="tab" id="headingFour">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-          Beyond the core game...  >
+          Beyond the Starter Set  >
         </a>
       </h2>
     </div>
