@@ -214,26 +214,47 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
-<h3>Xtreme Xpansion</h3>
+<h3>Deadzone: Nexus Psi</h3>
 <img src="../img/xpansion.png" class="pull-left img-responsive " />
 <p>Coming Soon! The DreadBall Xtreme game just got even better with this incredible expansion set that includes  the rules for additional psychopathic Sponors, the details for using the full range of DreadBall miniatures in your teams and so much more!!!</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h3>New Sponsors</h3>
+<h3>Deadzone: Incursion</h3>
 <img src="../img/newsponsor.png" class="pull-left img-responsive " />
 <p>Coming Soon! You will not believe the roll call of insane, callous and downright deranged Sponsors that Mantic have lined up to hire and lead your players. Each one will give you the opportunity to create a bespoke and individual team with exciting challenges and styles of play.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h3>Teams</h3>
+<h3>Deadzone: Contagion</h3>
 <img src="../img/newteam.png" class="pull-left img-responsive " />
 <p>Coming Soon! In DreadBall Xtreme your Sponsor can select players from the full range of marvellous Mantic minitures across the whole of the DreadBall universe. Create the ultimate team full of the models you love…</p>
 </div>
 <!-- /.col-md-4 -->
 </div>
 <!-- /.row -->
-
+<!-- Content Row -->
+<div class="row">
+<div class="col-md-4">
+<h3>Deadzone: Infestation</h3>
+<img src="../img/DBX-cards.png" class="pull-left img-responsive " />
+<p>Gain extra advantages either getting players to put in that extra burst of effort to gain an added action, or by whipping up the crowd to an even greater frenzy through flashy moves.</p>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Deadzone: Containment Protocols</h3>
+<img src="../img/DBX-cards02.png" class="pull-left img-responsive " />
+<p>These are either vicious tricks that are played on opposing players or the when the crowd take a direct influence in the game by shooting at the participants!</p>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Deadzone: Digital</h3>
+<img src="../img/ball-1.png" class="pull-left img-responsive " />
+<p>2 Dreadballs- for when killing your opponents just isn’t enough and you want to score points as well!</p>
+</div>
+<!-- /.col-md-4 -->
+</div>
+<!-- /.row -->
       </div>
     </div>
   </div>
