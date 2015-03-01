@@ -1,8 +1,8 @@
 ---
 layout: page
-title: The Warden
+title: Plague
 sub: yes
-permalink: /sponsors/warden/
+permalink: /the-game/plague/
 ---
 
 <!-- for each faction -->
