@@ -20,8 +20,6 @@ Deadzone is the exciting tabletop miniatures game where two Strike Teams do batt
 
 <strong>Deep, compelling narrative</strong> - Set in the Warpath universe, focus in on the regions of space designated a Deadzone and discover the horrors that have befallen planets such as Nexus Psi and Exham IV.
 
-The best way to begin playing Deadzone is to get yourself a copy of the two-player starter set:
-
 <div class="clearfix">&nbsp;</div>
 
 
@@ -37,26 +35,26 @@ The best way to begin playing Deadzone is to get yourself a copy of the two-play
     <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
       <div class="panel-body">
 
-The box contains everything that you need to play this awesome game: two forces of magnificent Mantic miniatures to represent the Enforcers and the Plague, a durable urdan gaming mat and modular scenery to create your battlefield, a full colour rulebook and all the dice, cards and counters that you need to play!
+The best way to begin playing Deadzone is to get yourself a copy of the two-player starter set. The box contains everything that you need to play this awesome game:
 
 <!-- Content Row -->
 	<div class="row">
 <div class="col-md-4">
-<h3>Blaine- Sponsor</h3>
+<h3>Enforcers</h3>
 <a href="/sponsors/blaine/"><img src="../img/blaine.png" class="pull-left img-responsive " /></a>
 <p>The deadly alien criminal mastermind who favours an eclectic and diverse team, often recruiting a wide mix of different species and player types depending upon this carefully worked out strategy.</p>
 <a class="btn btn-danger" href="/sponsors/blaine/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h3>The Warden- Sponsor</h3>
+<h3>Plague</h3>
 <a href="/sponsors/warden/"><img src="../img/prison-warden-isolated.png" class="pull-left img-responsive " /></a>
 <p>With a whole prison planet of degenerate scum at his mercy, The Warden Rasulov can take his pick of the best (or worse) the Universe has to offer and field them on the pitch. </p>
 <a class="btn btn-danger" href="/sponsors/warden/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h3>Free Agents</h3>
+<h3>Battlezones</h3>
 <a href="/the-game/freeagents//"><img src="../img/yndig-reaver.png" class="pull-left img-responsive " /></a>
 <p>The box contains 9 brilliant models of crazy aliens, vicious mercenaries and assorted scum that a Sponsor can hire to help win the game, each with their own individual skills and strengths.</p>
 <a class="btn btn-danger" href="/the-game/freeagents/">More Info</a>
@@ -67,21 +65,21 @@ The box contains everything that you need to play this awesome game: two forces 
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
-<h3>Convicts Team</h3>
+<h3>Gaming Mat</h3>
 <a href="/sponsors/warden/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
 <p>10 awesomely psychopathic Convict miniatures (including 2 injured) </p>
 <a class="btn btn-danger" href="/sponsors/warden/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h3>Kalyshi Team</h3>
+<h3>Rulebook</h3>
 <a href="/sponsors/blaine/"><img src="../img/kalyshi.png" class="pull-left img-responsive " /></a>
 <p>10 graceful and deadly Asterain Kalyshi warriors including 2 wounded players.</p>
 <a class="btn btn-danger" href="/sponsors/blaine/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h3>Coloured Hex Bases</h3>
+<h3>Games Material</h3>
 <img src="../img/DBX-bases.png" class="pull-left img-responsive " />
 <p>12 yellow and 12 blue hex bases that the miniatures slot onto to help distinguish between the two teams</p>
 </div>
@@ -111,19 +109,19 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
-<h3>Pitch</h3>
+<h3>Enforcers</h3>
 <img src="../img/DBX-mat02.png" class="pull-left img-responsive " />
 <p>The game is played on a detailed rubber gaming mat representing the disused warehouses, abandoned bunkers or any other hidden and inaccessible hell hole being used for an arena.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h3>Strike Posts</h3>
+<h3>Plague</h3>
 <img src="../img/strike-post-1.png" class="pull-left img-responsive " />
 <p>Strike Posts are the goals in which the players strive to score points and win the game!</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h3>Exploding Crates</h3>
+<h3>Marauders</h3>
 <img src="../img/crate01-isolated.png" class="pull-left img-responsive " />
 <p>Arenas are littered with debris and obstacles, many of which are booby trapped with explosives that detonate when a player gets too close - all for the benefit and enjoyment of the cred paying crowds!</p>
 </div>
@@ -133,21 +131,31 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
-<h3>Special Move Cards</h3>
+<h3>Rebs</h3>
 <img src="../img/DBX-cards.png" class="pull-left img-responsive " />
 <p>Gain extra advantages either getting players to put in that extra burst of effort to gain an added action, or by whipping up the crowd to an even greater frenzy through flashy moves.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h3>Sabotage Cards</h3>
+<h3>Asterians</h3>
 <img src="../img/DBX-cards02.png" class="pull-left img-responsive " />
 <p>These are either vicious tricks that are played on opposing players or the when the crowd take a direct influence in the game by shooting at the participants!</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h3>Balls</h3>
+<h3>Forge Fathers</h3>
 <img src="../img/ball-1.png" class="pull-left img-responsive " />
 <p>2 Dreadballs- for when killing your opponents just isn’t enough and you want to score points as well!</p>
+</div>
+<!-- /.col-md-4 -->
+</div>
+<!-- /.row -->
+<!-- Content Row -->
+<div class="row">
+<div class="col-md-4">
+<h3>Veer-myn</h3>
+<img src="../img/DBX-cards.png" class="pull-left img-responsive " />
+<p>Gain extra advantages either getting players to put in that extra burst of effort to gain an added action, or by whipping up the crowd to an even greater frenzy through flashy moves.</p>
 </div>
 <!-- /.col-md-4 -->
 </div>
