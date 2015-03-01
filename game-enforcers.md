@@ -22,19 +22,19 @@ Below is a sample of the different soldiers available to a Commander to form par
 <div class="col-md-4">
 <h3>Sergeant Howlett</h3>
 <img src="/img/kalyshi.png" class="pull-left img-responsive " /></a>
-<p>Fast moving and skilful, the Kalysian Striker can leap over any friends, enemies or obsticles that stand in their path to score. </p>
+<p>Sergeant Howlett is a natural leader who can inspire not only his squad members but also any other comrades who can see him. His fearless assaults on the enemy motivate those he leads to similar feats of heroism.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Recon Unit N32-19</h3>
 <a href=""><img src="/img/elf-jack-1-c.png" class="pull-left img-responsive " /></a>
-<p>With no refs or rules, the Jacks can use thier deadly Backstab ability to exploit any weaknesses in their foes armour.  </p>
+<p>Recon Unit N32-19 signalled for the Containment Protocol to be activated on Nexus Psi before setting out to gather key information and track the enemy, the Stage One he believed had been the first infected.</p>
 </div>
 <!-- /.col-md-4 -->
 <div class="col-md-4">
 <h3>Captain</h3>
 <a href=""><img src="/img/elf-jack-1-c.png" class="pull-left img-responsive " /></a>
-<p>With no refs or rules, the Jacks can use thier deadly Backstab ability to exploit any weaknesses in their foes armour.  </p>
+<p>It takes utter dedication to the cause just to survive more than a handful of missions and Enforcers who rise through the ranks to command positions have almost superhuman levels of skill, endurance and the most advanced personal armour available to the forces of humanity. </p>
 </div>
 <!-- /.col-md-4 -->
 </div>
