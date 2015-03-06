@@ -1,0 +1,42 @@
+
+
+/*!
+ * Start Bootstrap - Small Business HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+
+ 
+html {
+    background: url(/img/bgm.png);
+}
+
+body {
+    padding-top: 70px;
+    background: transparent url(/img/bgm.jpg) no-repeat!important;
+    color: white !important;
+}
+
+.navbar a.btn  {
+    color: white !important;
+}
+
+.well, .panel-heading {
+    color: #fff !important; 
+    background-color: #93130a !important; 
+    border: 0;
+}
+
+.panel-title {
+    font-size: 26px;
+}
+
+.navbar-fixed-top .nav {
+    padding: 15px 0;
+}
+
+.navbar-fixed-top .navbar-brand {
+    padding: 0 15px;
+}
+

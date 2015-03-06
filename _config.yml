@@ -3,7 +3,7 @@ title: Deadzone
 storelink: http://www.manticgames.com/mantic-shop/dreadball/dreadball-xtreme/product/dreadball-xtreme-boxed-game.html
 email: info@manticgames.com
 description: 
-baseurl: "dz"  # the subpath of your site, e.g. /blog/
+baseurl: "/dz/"  # the subpath of your site, e.g. /blog/
 url: "http://mattl.git.io" # the base hostname & protocol for your site
 twitter_username: manticgames
 github_username:  
