@@ -9,14 +9,16 @@
 
  
 html {
-    background: url(/img/bgm.png);
+    background: #ececec url(../img/bgm.jpg) top right no-repeat;
 }
 
 body {
     padding-top: 70px;
-    background: transparent url(/img/bgm.jpg) no-repeat!important;
-    color: white !important;
+    background: transparent;
+    color: black !important;
 }
+
+
 
 .navbar a.btn  {
     color: white !important;
