@@ -8,27 +8,43 @@ nexttitle: The Universe
 
 Deadzone is the exciting tabletop miniatures game where two Strike Teams do battle in the depths of an urban battlezone.
 
-<strong>Fast, furious firefights</strong> - Command a Strike Team of between 5-15 miniatures to achieve secret objectives. Capture vital intel, assasinate the enemy commander or simply obliterate the opposing force from the battlefield! 
+<strong>Fast, furious firefights</strong> - Command a Strike Team of
+between 5-15 miniatures to achieve secret objectives. Capture vital
+intel, assasinate the enemy commander or simply obliterate the
+opposing force from the battlefield!
 
-<strong>Build your Strike Team</strong> - Select your team from one of seven factions and play battles using the games' deep campaign system which will see your squad of basic troopers grow in number, gain new equipment and earn special abilities!
+<strong>Build your Strike Team</strong> - Select your team from one of
+seven factions and play battles using the games' deep campaign system
+which will see your squad of basic troopers grow in number, gain new
+equipment and earn special abilities!
 
-<strong>True Line of Sight</strong> - See what you can shoot using the game's intuitive and engaging mechanics.
+<strong>True Line of Sight</strong> - See what you can shoot using the
+game's intuitive and engaging mechanics.
 
-<strong>Interactive 3D Battlefield</strong> - Play on a fully modular battlefield using the hard plastic Battlezones terrain tile system. Construct everything from towers to bunkers, walkways to entire space-stations using the versatile range. Add in a range of accessories and lootable equipment on the battlefield and you have a truly 3D gaming space as high quality as your miniatures.
+<strong>Interactive 3D Battlefield</strong> - Play on a fully modular
+battlefield using the hard plastic Battlezones terrain tile
+system. Construct everything from towers to bunkers, walkways to
+entire space-stations using the versatile range. Add in a range of
+accessories and lootable equipment on the battlefield and you have a
+truly 3D gaming space as high quality as your miniatures.
 
-<strong>The War Escalates!</strong> - Expand your battles with exciting rules such as Multi-Mat, Multiplayer and the solo Zombie campaign!
+<strong>The War Escalates!</strong> - Expand your battles with
+exciting rules such as Multi-Mat, Multiplayer and the solo Zombie
+campaign!
 
-<strong>Deep, compelling narrative</strong> - Set in the Warpath universe, focus in on the regions of space designated a Deadzone and discover the horrors that have befallen planets such as Nexus Psi and Exham IV.
+<strong>Deep, compelling narrative</strong> - Set in the Warpath
+universe, focus in on the regions of space designated a Deadzone and
+discover the horrors that have befallen planets such as Nexus Psi and
+Exham IV.
 
 <div class="clearfix">&nbsp;</div>
-
 
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingOne">
       <h2 class="panel-title">
 	<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-	  Getting Started  >
+	  Getting Started  &rarr;
 	</a>
       </h2>
     </div>
@@ -53,7 +69,7 @@ The best way to begin playing Deadzone is to get yourself a copy of the two-play
 <a class="btn btn-danger" href="/sponsors/warden/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
- <div class="col-md-4">
+<div class="col-md-4">
 <h3>Battlezones</h3>
 <a href="/the-game/freeagents//"><img src="../img/yndig-reaver.png" class="pull-left img-responsive " /></a>
 <p>The box contains 9 brilliant models of crazy aliens, vicious mercenaries and assorted scum that a Sponsor can hire to help win the game, each with their own individual skills and strengths.</p>
@@ -87,15 +103,14 @@ The best way to begin playing Deadzone is to get yourself a copy of the two-play
 </div>
 <!-- /.row -->
 
-      </div>      
-
-  </div>
-  </div>
+</div>
+</div>
+</div>
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingTwo">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          Choose your Faction  >
+          Choose your Faction  &rarr;
         </a>
       </h2>
     </div>
@@ -167,12 +182,12 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <!-- /.row -->
       </div>
     </div>
-  </div>
-    <div class="panel panel-default">
+	</div>
+<div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          Build Better Battlefields  >
+          Build Better Battlefields  &rarr;
         </a>
       </h2>
     </div>
@@ -202,20 +217,20 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 </div>
 <!-- /.row -->
 
-      </div>
-    </div>
+ </div>
+</div>
   </div>
    <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingFour">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-          Beyond the Starter Set  >
+          Beyond the Starter Set  &rarr;
         </a>
       </h2>
     </div>
     <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
-      <div class="panel-body">
-
+<div class="panel-body">
+	
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
@@ -238,13 +253,12 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <!-- /.col-md-4 -->
 </div>
 <!-- /.row -->
-<!-- Content Row -->
-<div class="row">
-<div class="col-md-4">
-<h3>Deadzone: Infestation</h3>
-<img src="../img/DBX-cards.png" class="pull-left img-responsive " />
-<p>Gain extra advantages either getting players to put in that extra burst of effort to gain an added action, or by whipping up the crowd to an even greater frenzy through flashy moves.</p>
-</div>
+<!-- Content Row --> <div class="row"> <div class="col-md-4">
+<h3>Deadzone: Infestation</h3> <img src="../img/DBX-cards.png"
+class="pull-left img-responsive " /> <p>Gain extra advantages either
+getting players to put in that extra burst of effort to gain an added
+action, or by whipping up the crowd to an even greater frenzy through
+flashy moves.</p> </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Deadzone: Containment Protocols</h3>
@@ -260,8 +274,6 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <!-- /.col-md-4 -->
 </div>
 <!-- /.row -->
-      </div>
-    </div>
-  </div>
 </div>
-      
+</div>
+</div>
